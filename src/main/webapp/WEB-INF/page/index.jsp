@@ -20,7 +20,7 @@
 		<header id="masthead" class="site-header" role="banner">
 			<div class="hgroup">
 				<h1 class="site-title">
-					<a class="home-link" href="${domain }" title="代理IP提取系统" rel="home">Proxy IP fetching system</a>
+					<a class="home-link" href="${domain }" title="IP Fetching System" rel="home">Proxy IP fetching system</a>
 				</h1>
 				<h2 class="site-description" id="site-description">Powered by spingmvc + mybatis</h2>
 			</div>
